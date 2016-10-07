@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 95384,
+  "exponentServerNgrokUrl": "https://4m-6qk.davidli.aquarius.exp.direct",
+  "packagerNgrokUrl": "https://packager.4m-6qk.davidli.aquarius.exp.direct",
+  "ngrokPid": 95537
+}

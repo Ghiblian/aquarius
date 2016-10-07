@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('Aquarius', () => Aquarius);
+AppRegistry.registerComponent('main', () => Aquarius);
